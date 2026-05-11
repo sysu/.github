@@ -20,8 +20,9 @@
 
 ### 趣事
 
-* 孙中山曾说过一个[劳力工人和竹杠](https://github.com/sysu/sysu/blob/main/fun_facts/Dr_Sun.md)的故事。
+* 孙中山曾说过一个[苦力工人和竹杠](https://github.com/sysu/sysu/blob/main/fun_facts/Dr_Sun.md)的故事。
 * 一些毕业1~2年的中大学生在广州会选择在[银灯食府](https://map.baidu.com/search/%E9%93%B6%E7%81%AF%E9%A3%9F%E5%BA%9C/@12608456.54599119,2629274.25,18.18z?querytype=con&wd=%E9%93%B6%E7%81%AF%E9%A3%9F%E5%BA%9C)聚餐，包括[社会学系](https://ssa.sysu.edu.cn/)和[软件工程类](https://cse.sysu.edu.cn/)的。
+* 待添加
 
 <!--
 
