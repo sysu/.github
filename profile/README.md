@@ -24,6 +24,11 @@
 * 一些毕业1~2年的中大学生在广州会选择在[银灯食府](https://map.baidu.com/search/%E9%93%B6%E7%81%AF%E9%A3%9F%E5%BA%9C/@12608456.54599119,2629274.25,18.18z?querytype=con&wd=%E9%93%B6%E7%81%AF%E9%A3%9F%E5%BA%9C)聚餐，包括[社会学系](https://ssa.sysu.edu.cn/)和[软件工程类](https://cse.sysu.edu.cn/)的。
 * 待添加
 
+### 魔法之门
+
+* 待添加
+* [浏览尘封在历史中的项目](https://sysu-created.github.io/browse/)
+
 <!--
 
 **Here are some ideas to get you started:**
